@@ -1,1 +1,1 @@
-# lh-008-DSC-Capstone-A10-Speaker-Listener
+DSC-Capstone-A10-Speaker-Listener
